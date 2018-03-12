@@ -7,6 +7,7 @@ body {
    line-height: 1.4em;
  }
 div#parag1 {
+
   margin-bottom: 2em;
   text-align: justify;
 }
@@ -29,5 +30,10 @@ div#parag3 {
     line-height: 1.5em;
     font-size: 1.1em;
 
+  }
+  div#parag1 {
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+    text-align: justify;
   }
 }
