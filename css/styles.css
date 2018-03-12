@@ -1,0 +1,33 @@
+body {
+  font-family: 'Cinzel', serif;
+}
+ .text__container {
+   width: 90%;
+   margin: 20px auto;
+   line-height: 1.4em;
+ }
+div#parag1 {
+  margin-bottom: 2em;
+  text-align: justify;
+}
+div#parag2 {
+  margin-bottom: 2em;
+  text-align: justify;
+}
+div#parag3 {
+    text-align: justify;
+}
+@media (min-width: 768px) {
+  body {
+    width: 85%;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .text__container {
+    margin: 0;
+    line-height: 1.5em;
+    font-size: 1.1em;
+
+  }
+}
